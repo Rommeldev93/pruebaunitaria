@@ -7,8 +7,6 @@ z
 JdemoBackend/src/test/java/com/melcam/demo/DemoBackendApplicationTests.java,5\5\55a568940d28183a7f1010005e3f8323d0c61c13
 r
 BdemoBackend/src/test/java/com/melcam/demo/entity/EmpleadoTest.java,1\b\1b0aa9640bcf44685ed6cce4d9ada8023fbd4285
-m
-=demoBackend/src/main/java/com/melcam/demo/entity/Cliente.java,f\f\ffde37d517f46333fc02079a19e4b7de2d24dee9
 q
 AdemoBackend/src/test/java/com/melcam/demo/entity/ClienteTest.java,4\d\4d68f90395226f295b8404d646c9ba8ba0d30bc2
 €
